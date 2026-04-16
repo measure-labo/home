@@ -2,16 +2,16 @@ site_name: メジャーメントラボ
 
 theme:
   name: material
-  custom_dir: overrides
+#  custom_dir: overrides
   features:
     - navigation.tabs
     - toc.integrate
   language: ja
 
-#extra:
-#  analytics:
-#    provider: google
-#    property: G-HMS51W1X76
+extra:
+  analytics:
+    provider: google
+    property: G-HMS51W1X76
 
 plugins:
   - search:
