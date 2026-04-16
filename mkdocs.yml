@@ -8,6 +8,9 @@ theme:
     - toc.integrate
   language: ja
 
+extra_javascript:
+  - js/analytics.js
+
 #extra:
 #  analytics:
 #    provider: google
